@@ -3,6 +3,7 @@ i know:
 **html** - expert
 **css** - normal
 **js** - i know a bit and more
+**python** - i am good in tkinter and cistomtkinter
 
 my first code:
 ```python
