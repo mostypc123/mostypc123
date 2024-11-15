@@ -1,13 +1,15 @@
 <h1 align="center">Hi 👋, I'm Juraj Kollár</h1>
 <h3 align="center">A junior Python developer also making designs with Canva and Figma and videos using Davinci Resolve</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mostypc123&label=Profile%20views&color=0e75b6&style=flat" alt="mostypc123" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=mostypc123&label=Profile%20views&color=0e75b6&style=flat" alt="mostypc123" /> </p>
 
 - 🔭 I’m currently working on [XediX](https://github.com/mostypc123/XediX)
 
 - 🌱 I’m currently learning **as much more about Python as i can :)**
 
 - 👨‍💻 All of my projects are available at this github account
+
+- ✉️ How to reach me: u dont
 
 - 👨‍💻 Also chceck out my [portfolio](https://juraj-kollar.w3spaces.com/)
 
