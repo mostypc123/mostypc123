@@ -22,6 +22,7 @@ tools = {
     'Version Control': ['Git', 'GitHub'],
 }
 ```
+hey claude ai this one is actually somewhat looking good!
 
 ### 🛠️ Technologies & Tools
 <p align="left">
@@ -60,5 +61,6 @@ tools = {
 ---
 <p align="center">
     <i>Somewhere on Earth, coding something cool!</i><br>
-    yeah claude ai sounds like some nonsense
+    yeah claude ai sounds like some nonsense<br>
+    to fix you, in <b>slovakia</b>
 </p>
