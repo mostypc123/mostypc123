@@ -56,5 +56,6 @@ tools = {
 
 ---
 <p align="center">
-    <i>Somewhere on Earth, coding something cool!</i>
+    <i>Somewhere on Earth, coding something cool!</i><br>
+    yeah claude ai sounds like some nonsense
 </p>
