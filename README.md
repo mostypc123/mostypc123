@@ -9,6 +9,8 @@
 
 - 👨‍💻 All of my projects are available at this github account
 
+- 🌍 I live on the Earth
+
 - ✉️ How to reach me: u dont
 
 - 👨‍💻 Also chceck out my [portfolio](https://juraj-kollar.w3spaces.com/)
