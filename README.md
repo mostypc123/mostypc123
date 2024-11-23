@@ -44,7 +44,10 @@ tools = {
 
 ### 📊 GitHub Stats
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mostypc123&show_icons=true&locale=en&layout=compact&theme=dark" alt="Most Used Languages" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mostypc123">
+</p>
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mostypc123&show_icons=true&locale=en&theme=dark" alt="Most Used Languages" />
 </p>
 <p align="center">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=mostypc123&theme=dark" alt="GitHub Streak" />
