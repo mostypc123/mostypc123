@@ -1,4 +1,5 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=46F735&multiline=true&width=435&lines=%24+touch+grass.txt;%24+nano+grass.txt;%24+cat+grass.txt+%23+touch+grass+sigma+cat;%23+touch+grass+sigma+cat" alt="Typing SVG" /></a>
+bruh
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=300&color=46F735&multiline=true&width=435&height=150&lines=%24+touch+grass.txt;%24+nano+grass.txt;%24+cat+grass.txt;%23+touch+grass+sigma+cat" alt="Typing SVG" /></a>
 <h1 align="center">Hi there! I'm Juraj Kollár 👋</h1>
 <h3 align="center">Python Developer | Designer | Video Editor</h3>
 
