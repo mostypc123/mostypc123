@@ -69,7 +69,7 @@ hey claude ai this one is actually somewhat looking good!
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mostypc123&show_icons=true&locale=en&theme=dark" alt="Most Used Languages" />
 </p>
 <p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=mostypc123&theme=dark" alt="GitHub Streak" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=mostypc123&theme=highcontrast" alt="GitHub Streak" />
 </p>
 
 <p align="center">
