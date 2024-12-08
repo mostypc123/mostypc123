@@ -21,24 +21,24 @@ tools = {
     'Design': ['Figma', 'Canva'],
     '3D & Video': ['Blender', 'DaVinci Resolve'],
     'Version Control': ['Git', 'GitHub'],
-}
+
 ```
-[![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?logo=openai&logoColor=white)](#)
-[![Brave](https://img.shields.io/badge/Brave-FB542B?logo=Brave&logoColor=white)](#)
-[![Blender](https://img.shields.io/badge/Blender-%23F5792A.svg?logo=blender&logoColor=white)](#)
-[![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?&logo=Canva&logoColor=white)](#)
-[![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)](#)
-[![Krita](https://img.shields.io/badge/Krita-203759?logo=krita&logoColor=EEF37B)](#)
-[![W3Schools](https://img.shields.io/badge/W3Schools-04AA6D?logo=w3schools&logoColor=fff)](#)
-[![TailwindCSS](https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white)](#)
-[![Steam](https://img.shields.io/badge/Steam-%23000000.svg?logo=steam&logoColor=white)](#)
-[![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white)](#)
-[![Windows](https://custom-icon-badges.demolab.com/badge/Windows-0078D6?logo=windows11&logoColor=white)](#)
-[![PyPI](https://img.shields.io/badge/PyPI-3775A9?logo=pypi&logoColor=fff)](#)
-[![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)](#)
-[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)
-[![Audacity](https://img.shields.io/badge/Audacity-0000CC?logo=audacity&logoColor=white)](#)
-[![YouTube Music](https://img.shields.io/badge/YouTube_Music-FF0000?logo=youtube-music&logoColor=white)](#)
+[![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?logo=openai&logoColor=white&style=plastic)](#)
+[![Brave](https://img.shields.io/badge/Brave-FB542B?logo=Brave&logoColor=white&style=plastic)](#)
+[![Blender](https://img.shields.io/badge/Blender-%23F5792A.svg?logo=blender&logoColor=white&style=plastic)](#)
+[![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?&logo=Canva&logoColor=white&style=plastic)](#)
+[![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white&style=plastic)](#)
+[![Krita](https://img.shields.io/badge/Krita-203759?logo=krita&logoColor=EEF37B&style=plastic)](#)
+[![W3Schools](https://img.shields.io/badge/W3Schools-04AA6D?logo=w3schools&logoColor=fff&style=plastic)](#)
+[![TailwindCSS](https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white&styld=plastic)](#)
+[![Steam](https://img.shields.io/badge/Steam-%23000000.svg?logo=steam&logoColor=white&style=plastic)](#)
+[![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white&style=plastic)](#)
+[![Windows](https://custom-icon-badges.demolab.com/badge/Windows-0078D6?logo=windows11&logoColor=white&style=plastic)](#)
+[![PyPI](https://img.shields.io/badge/PyPI-3775A9?logo=pypi&logoColor=fff&style=plastic](#)
+[![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white&style=plastic)
+[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=plastic)](#)
+[![Audacity](https://img.shields.io/badge/Audacity-0000CC?logo=audacity&logoColor=white&style=plastic)](#)
+[![YouTube Music](https://img.shields.io/badge/YouTube_Music-FF0000?logo=youtube-music&logoColor=white&style=plastic)](#)
 
 hey claude ai this one is actually somewhat looking good!
 
