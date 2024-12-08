@@ -34,7 +34,7 @@ tools = {
 [![Steam](https://img.shields.io/badge/Steam-%23000000.svg?logo=steam&logoColor=white&style=plastic)](#)
 [![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white&style=plastic)](#)
 [![Windows](https://custom-icon-badges.demolab.com/badge/Windows-0078D6?logo=windows11&logoColor=white&style=plastic)](#)
-[![PyPI](https://img.shields.io/badge/PyPI-3775A9?logo=pypi&logoColor=fff&style=plastic](#)
+[![PyPI](https://img.shields.io/badge/PyPI-3775A9?logo=pypi&logoColor=fff&style=plastic)](#)
 [![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white&style=plastic)
 [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=plastic)](#)
 [![Audacity](https://img.shields.io/badge/Audacity-0000CC?logo=audacity&logoColor=white&style=plastic)](#)
