@@ -71,7 +71,9 @@ hey claude ai this one is actually somewhat looking good!
 <p align="center">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=mostypc123&theme=highcontrast" alt="GitHub Streak" />
 </p>
-
+<p align="center">
+    <img src="https://api.githubtrends.io/user/svg/mostypc123/repos?time_range=three_months&theme=dark" alt="wrapped💻" />
+</p>
 <p align="center">
     <img src="https://readme-jokes.vercel.app/api" alt="Random Dev Joke" />
 </p>
