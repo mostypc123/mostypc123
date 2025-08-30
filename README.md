@@ -15,7 +15,7 @@
   - Ubuntu hater
   - RHEL and Fedora hater
     - dnf sucks, get over it
-- 📺 Currently watching **Little Witch Academia**
+- 📺 Currently watching _idk what to watch anymore fr_
 
 ### 🤓 Skills
 - Python, HTML, basic CSS, basic JS
