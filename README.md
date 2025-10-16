@@ -3,7 +3,7 @@
 <h3 align="center">Python Developer | Designer | Video Editor</h3>
 
 ### 🚀 About Me
-- 🔭 Working on [Crust](https://github.com/mostypc123/crust)
+- 🔭 Working on [Redrose Linux](https://github.com/redroselinux)
 - 👨‍💻 All of my projects are available at this github account
 - 🇸🇰 Slovakia
 - ✉️ How to reach me: mostypc7@gmail.com
@@ -15,7 +15,7 @@
   - Ubuntu hater
   - RHEL and Fedora hater
     - dnf sucks, get over it
-- 📺 Currently watching _idk what to watch anymore fr_
+- 📺 Currently watching _One Punch Man_
 
 ### 🤓 Skills
 - Python, HTML, basic CSS, basic JS
@@ -28,6 +28,11 @@
   <img src="https://github-readme-stats.vercel.app/api?username=mostypc123&show_icons=true&theme=gruvbox" />
   <img src="https://github-readme-streak-stats.herokuapp.com?user=mostypc123&theme=gruvbox" />
 </p>
+
+### 🔥 Best games ever made
+- Hades I
+- Ace Combat 7
+- Hollow Knight: Silksong
 
 ### 💻 As an IDE developer, these are the best IDEs
 - VS Code
