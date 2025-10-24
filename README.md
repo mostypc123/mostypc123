@@ -1,41 +1,39 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=300&color=46F735&multiline=true&width=435&height=135&lines=%24+touch+grass.txt;%24+nano+grass.txt;%24+cat+grass.txt;%23+touch+grass+sigma+cat" alt="Typing SVG" /></a>
-<h1 align="center">Hi there! I'm Juraj Kollár 👋</h1>
-<h3 align="center">Python Developer | Designer | Video Editor</h3>
+# mostypc123 | Juraj Kollár
 
-### 🚀 About Me
-- 🔭 Working on [Redrose Linux](https://github.com/redroselinux)
-- 👨‍💻 All of my projects are available at this github account
-- 🇸🇰 Slovakia
-- ✉️ How to reach me: mostypc7@gmail.com
-- 🎨 Check out my [portfolio](https://mostypc123.is-a.dev)
-- 🐧 I use Linux
+### About Me
+-  Working on [Redrose Linux](https://github.com/redroselinux)
+-  All of my projects are available at this github account
+-  Slovakia
+-  How to reach me: mostypc7@gmail.com
+-  Check out my [portfolio](https://mostypc123.is-a.dev)
+-  I use Linux
   - Arch Linux lover btw
   - Linux Mint lover
     - but Cinnamon isnt that good
   - Ubuntu hater
   - RHEL and Fedora hater
     - dnf sucks, get over it
-- 📺 Currently watching _One Punch Man_
-- 🎧 RJA, PTV, The Cranberries, GK, Phoneboy fan
+-  Currently watching _One Punch Man_
+-  RJA, PTV, The Cranberries, GK, Phoneboy fan
 
-### 🤓 Skills
+### Skills
 - Python, HTML, basic CSS, basic JS
 - Canva, Figma, Davinci Resolve, Basic Krita Skills
 - Linux, Windows, Cybersecurity
 - Pygame, Tkinter, basic wxPython
 
-### 📊 GitHub Stats
+###  GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mostypc123&show_icons=true&theme=gruvbox" />
   <img src="https://github-readme-streak-stats.herokuapp.com?user=mostypc123&theme=gruvbox" />
 </p>
 
-### 🔥 Best games ever made
+###  Best games ever made
 - Hades I
 - Ace Combat 7
 - Hollow Knight: Silksong
 
-### 💻 As an IDE developer, these are the best IDEs
+### As an IDE developer, these are the best IDEs
 - VS Code
 - Neovim
 - Vi (absolute respect)
