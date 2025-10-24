@@ -1,7 +1,7 @@
 # mostypc123 | Juraj Kollár
 
 ### About Me
--  Working on [Redrose Linux](https://github.com/redroselinux)
+-  Working on [Redrose Linux](https://redroselinux.github.io)
 -  All of my projects are available at this github account
 -  Slovakia
 -  How to reach me: mostypc7@gmail.com
