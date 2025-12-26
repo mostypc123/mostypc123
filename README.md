@@ -14,7 +14,7 @@
   - RHEL and Fedora hater
     - dnf sucks, get over it
 -  Currently watching _One Punch Man_
--  RJA, PTV, The Cranberries, GK, Phoneboy fan
+-  LP, RJA, PTV, The Cranberries, GK, Phoneboy fan
 
 ### Skills
 - Python, HTML, basic CSS, basic JS
