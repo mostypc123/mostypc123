@@ -1,5 +1,9 @@
 # mostypc123 | Juraj Kollár
 
+## i edit readmes
+<img width="911" height="305" alt="image" src="https://github.com/user-attachments/assets/922cc555-7786-4886-905e-7ec97b87f51d" />
+
+
 ### About Me
 -  Working on [Redrose Linux](https://redroselinux.github.io) and [Nimcraft](https://github.com/mostypc123/nimcraft)
 -  All of my projects are available on this github account
