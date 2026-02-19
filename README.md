@@ -1,11 +1,8 @@
-# mostypc123 | Juraj Kollár
-
-## i edit readmes
-<img width="911" height="305" alt="image" src="https://github.com/user-attachments/assets/922cc555-7786-4886-905e-7ec97b87f51d" />
+# mostypc123
 
 
 ### About Me
--  Working on [Redrose Linux](https://redroselinux.github.io) and [Nimcraft](https://github.com/mostypc123/nimcraft)
+-  Working on [Redrose Linux](https://redroselinux.github.io)
 -  All of my projects are available on this github account
 -  Slovakia
 -  How to reach me: mostypc7@gmail.com
@@ -16,7 +13,6 @@
     - but Cinnamon isnt that good
   - Ubuntu hater
   - RHEL and Fedora hater
-    - dnf sucks, get over it
 -  Currently watching _One Punch Man_
 -  LP, RJA, PTV, The Cranberries, GK, Phoneboy fan
 
