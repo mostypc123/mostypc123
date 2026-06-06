@@ -1,40 +1,13 @@
-# mostypc123
-
-
-### About Me
--  Working on [Redrose Linux](https://redroselinux.github.io)
--  All of my projects are available on this github account
--  Slovakia
--  How to reach me: mostypc7@gmail.com
--  Check out my [portfolio](https://mostypc123.is-a.dev)
--  I use Linux
-  - Arch Linux lover btw
-  - Linux Mint lover
-    - but Cinnamon isnt that good
-  - Ubuntu hater
-  - RHEL and Fedora hater
--  Currently watching _One Punch Man_
--  LP, RJA, PTV, The Cranberries, GK, Phoneboy fan
-
-### Skills
-- Python, HTML, basic CSS, basic JS
-- Canva, Figma, Davinci Resolve, Basic Krita Skills
-- Linux, Windows, Cybersecurity
-- Pygame, Tkinter, basic wxPython
-
-###  GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mostypc123&show_icons=true&theme=gruvbox" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=mostypc123&theme=gruvbox" />
-</p>
-
-###  Best games ever made
-- Hades I
-- Ace Combat 7
-- Hollow Knight: Silksong
-
-### As an IDE developer, these are the best IDEs
-- VS Code
-- Neovim
-- Vi (absolute respect)
-
+<div align="center">
+  <img width="1920" height="1080" alt="An image with a blurred tree in the background and the red text written 'mostypc123'." src="https://github.com/user-attachments/assets/f4d26fab-f0dc-4057-bea9-fb96109dc630" />
+  <hr>
+  <b><i>person who likes to code</i></b>
+  <p>
+    <small><i>
+      https://mostypc123.is-a.dev - my tiny website<br>
+      https://redroselinux.org - my independent linux distro<br>
+      contact me via <code>mostypc123@redroselinux.org</code><br>
+      not looking for jobs, but the bots will still spam my email<br>
+    </i></small>
+  </p>
+</div>
